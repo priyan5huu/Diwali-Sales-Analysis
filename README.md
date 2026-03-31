@@ -105,8 +105,8 @@ Jupyter Notebook
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/diwali-sales-analysis.git
-cd diwali-sales-analysis
+git clone https://github.com/priyan5huu/Diwali-Sales-Analysis.git
+
 ```
 
 2. **Create a virtual environment** (Recommended)
