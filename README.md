@@ -190,9 +190,8 @@ This project is licensed under the MIT License - see LICENSE file for details.
 ## 👨‍💼 Author
 
 **Priyanshu Pandey**
-- GitHub: [Your GitHub Profile]
-- LinkedIn: [Your LinkedIn Profile]
-
+- GitHub: https://github.com/priyan5huu
+- LinkedIn: https://www.linkedin.com/in/priyanshu-pandey-a9b573292/
 ## 📞 Contact & Feedback
 
 For questions, suggestions, or collaboration opportunities, feel free to reach out!
